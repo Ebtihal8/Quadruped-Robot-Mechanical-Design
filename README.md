@@ -4,7 +4,7 @@
 
 This project presents the mechanical design of a quadruped robot developed for educational purposes. The design focuses on stability, lightweight construction, joint configuration, torque estimation, and walking gait analysis.
 
-## 🖼️ Design Preview
+
 
 ## ✨ Features
 
