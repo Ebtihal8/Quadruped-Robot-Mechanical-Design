@@ -4,6 +4,8 @@
 
 This project presents the mechanical design of a quadruped robot developed for educational purposes. The design focuses on stability, lightweight construction, joint configuration, torque estimation, and walking gait analysis.
 
+## 🖼️ Design Preview
+
 ## ✨ Features
 
 - 🏗️ ABS Plastic (3D Printed) Chassis
@@ -16,8 +18,12 @@ This project presents the mechanical design of a quadruped robot developed for e
 
 ## 📄 Report
 
-The complete mechanical design report is available in **Report.pdf**.
+The complete mechanical design report is available in the attached PDF file included in this repository.
 
 ## 👩‍💻 Author
 
-**Ebtihal Fawaz ALamri**  
+**Ebtihal Fawaz Alamri**
+
+Computer and Network Engineering Student
+
+University of Jeddah
